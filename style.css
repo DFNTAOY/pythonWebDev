@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+    text-align: center;;
+}
+
+.foo{
+    display: none;
+    margin: 10px;
+    padding: 10px;
+    bottom: 10px;
+}
